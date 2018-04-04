@@ -29,7 +29,7 @@
 * Видеть список всех вопросов без ответа во всех темах в порядке их добавления. И иметь возможность их редактировать и удалять.
 
 ## Интерфейс
-* За основу пользовательского интерфейса можно взять этот [шаблон](resourses/faq.zip) ([демо](https://netology-code.github.io/php-diplom/resourses/preview)).
+* За основу пользовательского интерфейса можно взять этот [шаблон](https://github.com/netology-code/php-diplom/blob/master/resources/faq.zip) ([демо](https://netology-code.github.io/php-diplom/resources/preview/)).
 * Для построения интерфейса системы администрирования можно использовать фреймворки [Bootstrap](http://getbootstrap.com/) или [Materialize](http://materializecss.com/).
 * Все интерфейсные решения — на ваше усмотрения. Делайте как проще. Но основной приоритет — простота использования неподготовленным пользователем.
 
